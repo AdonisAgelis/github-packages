@@ -1,0 +1,19 @@
+{
+  "name": "@adonisagelis/github-packages",
+  "version": "1.0.0",
+  "description": "A GitHub Actions workflow to publish a package to a private registry",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdonisAgelis/github-packages.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdonisAgelis/github-packages/issues"
+  },
+  "homepage": "https://github.com/AdonisAgelis/github-packages#readme"
+}
