@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AdonisAgelis/github-packages/issues"
   },
-  "homepage": "https://github.com/AdonisAgelis/github-packages#readme"
+  "homepage": "https://github.com/AdonisAgelis/github-packages#readme",
+  "publishConfig": {
+    "@AdonisAgelis:registry": "https://npm.pkg.github.com/"
+  }
 }
