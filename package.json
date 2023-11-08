@@ -1,6 +1,6 @@
 {
   "name": "@adonisagelis/github-packages",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A GitHub Actions workflow to publish a package to a private registry",
   "main": "index.js",
   "scripts": {
